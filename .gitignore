@@ -161,4 +161,4 @@ cython_debug/
 
 # Custom
 data/
-lightning-logs/
+lightning_logs/
